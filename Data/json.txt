@@ -1,0 +1,14 @@
+C:\Users\Ramaditya Satria\Desktop\work\RPA\PoC WOM Finance\PoC WOM Finance\Data\Captcha1\captcha_24_02_2022_04_23_37.png
+
+{
+  "message": "Try again with exponential backoff or contact us at info@nanonets.com",
+  "code": 500,
+  "errors": [
+    {
+      "reason": "Unknown Error",
+      "message": "Try again with exponential backoff or contact us at info@nanonets.com"
+    }
+  ]
+}
+
+500
